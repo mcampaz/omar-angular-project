@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OmarAngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# omar-angular-project
+>>>>>>> e12343f15c4ba290188b6f5553bc21f80ac87c59
